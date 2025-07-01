@@ -1,0 +1,6 @@
+pyfind/
+ ├─ pyfind.py           # entry‐point CLI
+ ├─ indexer.py          # cammina il FS, rispetta .gitignore
+ ├─ search.py           # selezione per nome/regex/contenuto
+ ├─ tui.py              # interfaccia fuzzy-search + preview
+ └─ utils.py            # color output, config loader
